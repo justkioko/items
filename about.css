@@ -1,0 +1,11 @@
+body{
+    background: fuchsia;
+}
+.about{
+    width: 400px;
+    height: 100px;
+    background: rgb(6, 90, 181);
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
